@@ -1,2 +1,1 @@
-# SIPS19Notes
-Notes from SIPS 2019
+# Various script etc. from SIPS 2019 
