@@ -23,6 +23,7 @@
 - Concpetual replicnation seen to give better theoretical support 
 - Other people argue anything can fit into conceptual replication, so direct replication gives you a more robust faith in the experiment in question 
 - What we can learn 
+
 Exact replication | Conceptual replication
 ------------------- | -------------------------
 If it fails we can question the study but could be type one error | If it fails could be type 1 error in the first study but could also be differences in method|
