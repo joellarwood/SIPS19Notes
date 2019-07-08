@@ -8,6 +8,6 @@
 
 ### Objectivity 
 - Objective as a desirable but perhaps non-obtainable goal of scince. Raises the question of what is the operation definition of objectivity
- - objecitivity as resisitance to bias and QRPs
- - This allows us to come up with robust methods, a research practice as robust as possible but perhaps still not value free 
+    - objecitivity as resisitance to bias and QRPs
+    - This allows us to come up with robust methods, a research practice as robust as possible but perhaps still not value free 
  
