@@ -122,4 +122,6 @@ Primary weight: What most people use in the literature
 - going back and forth between single and multiple item analyses
 - watch for 'adapted' etc. make sure you get the validity evidence or at least item wording.
 
-It's ok to modify scales but it is essential to be transparent about this 
+It's ok to modify scales but it is essential to be transparent about this.
+
+ 
