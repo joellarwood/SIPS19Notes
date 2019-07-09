@@ -109,4 +109,38 @@
   - HMC can handle complex models, allows for bigger maximal model
   - can fit multiple model types (binomial, exponential etc.) all pre-implimented just need to specify model family
 - HOWEVER `brms` is much slower for simple designs (has to be compiled from R to STAN to C++) and need to know how to do model diagnositcs
-- 
+- Can't just rerun `lme4` models in `brms`
+  - need to specify the distribution family, the priors and number of MCMC samples
+
+## Running the model
+### Priors
+- there are default priors `get_prior(model)`
+  - uses the student t distribution
+  - `brms` uses your data to estimate the prior
+  - is a very vague prior
+- there is a prior for fixed and random effects
+  - `brms` assumes the same prior if not otherwise specified
+- can use information about the data characteristics to make more specific prior
+    - see markdown script
+
+### Diagnostics
+1. did the chains mix will/did it converge
+  - intercept plot should look like a fat hairy caterpillar
+  - what a Rhat close to 1 (should be at least < 1.1)
+  - if you see a converence warning you can add `- control = list(adapt_delta = .99)` the fit will take longer but increase likelihood of convergence
+  - can also increase number of chains
+2. Checking adequacy
+  -  posteriror predictive check: looks at how well the posterior fits the delta (`pp_check(model)`) or `pp_check(model, type = stat)`
+  - can check for influential observations (loo-pit or qq_pot)
+
+### Evaluation
+- `summary(model)` will give the summary effects
+- can summary stats to check the influence of priors
+- Plotting effects
+  - can plot marginal effects for each condition can get the estimate and create predictions
+
+#### Testing
+- is an effect significant?
+  - Can look at posterior probabilities. But is hard for multiple factors and their interactions
+  - Model comparison approach
+- Can use bayes factors but is problematic for the mixed models and is very dependent on priors 
