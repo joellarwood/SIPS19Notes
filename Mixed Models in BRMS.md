@@ -108,5 +108,5 @@
   - can specify priors
   - HMC can handle complex models, allows for bigger maximal model
   - can fit multiple model types (binomial, exponential etc.) all pre-implimented just need to specify model family
-- HOWEVER `brms` is much slower for simple designs (has to be compiled from R to STAN to C++)
+- HOWEVER `brms` is much slower for simple designs (has to be compiled from R to STAN to C++) and need to know how to do model diagnositcs
 - 
