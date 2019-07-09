@@ -1,8 +1,8 @@
 # Questionable Measurement Practices
 
-## (Resources)[https://docs.google.com/document/d/16xDCPQiP82Bp-Z8Eda3s9jv7_CzqNOJzRueS7RJvaJ8/edit]
+## [Resources](https://docs.google.com/document/d/16xDCPQiP82Bp-Z8Eda3s9jv7_CzqNOJzRueS7RJvaJ8/edit)
 
-## (Measurement Primer)[https://docs.google.com/document/d/11jyoXtO0m2lUywpC04KjLvI5QcBUY4YtwEvw6cg2cMs/edit]
+## [Measurement Primer](https://docs.google.com/document/d/11jyoXtO0m2lUywpC04KjLvI5QcBUY4YtwEvw6cg2cMs/edit)
 
 - Quality of theory is related to how good measurement is and if the theory is good but measurement is bad theory will be incorrectly updated
 - Measurement is more than questionnaires  but the focus of this session is questionnaires
@@ -72,9 +72,9 @@
 ```
 Construct = Alexithymia
 Multiple Measures = Yes;
-										Toronto Alexithymia Scale
-										Bermnond Vorst Alexithymia questionnaire
-										Perth Alexithymia questionnaire
+				Toronto Alexithymia Scale
+				Bermnond Vorst Alexithymia questionnaire
+				Perth Alexithymia questionnaire
 How are the selected = Sometimes theory (if looking at type 1 or type 2) but generally the TAS is selected out of prominence. Perth questionnaire is new and I don't think it has been used yet but was developed out of theory.
 Primary weight: What most people use in the literature
 ```
