@@ -1,4 +1,5 @@
 # Questionable Measurement Practices
+Eiko Fried and Jessica Flake
 
 ## [Resources](https://docs.google.com/document/d/16xDCPQiP82Bp-Z8Eda3s9jv7_CzqNOJzRueS7RJvaJ8/edit)
 
@@ -68,6 +69,13 @@
 - report the decisions and their justification
 	- the justification can be weak for whichever reason
 
+#### Common measurement selection QRPs
+- mismatch with theory and measurement
+- multiple measures of the same construct with the different content (jingle) and multiple measures of different constructs with same content
+- measures have no previous validity evidence or source
+- selective reporting
+- If you justify decisions you can avoid QMPs about selection
+
 ## In My Work
 ```
 Construct = Alexithymia
@@ -78,3 +86,40 @@ Multiple Measures = Yes;
 How are the selected = Sometimes theory (if looking at type 1 or type 2) but generally the TAS is selected out of prominence. Perth questionnaire is new and I don't think it has been used yet but was developed out of theory.
 Primary weight: What most people use in the literature
 ```
+### Measurement Use
+#### Many decisions
+- Have to decide how to present them and how to analyse them
+1. What is the response format (items, scale points)
+	- the same scale has differnet measurement styles so have to choose the best one according to theory
+2. How do you score the measure (mean, sum, latent factor, etc. removal of items without variance, subscales or not)
+3. How many scores will the measure have (unitary construct, multiple factors etc.)
+4. Multiple Scales
+	- are all scales going to be reported (yes)
+	- exclusion criteria, only report above alpha of .6
+
+#### Common QMPs
+- unclear reporting of response scale or scoring
+- no justification for subscale creation
+- across a set of studies look at changes in scales
+- Ask: would someone be able to read this and exactly reproduce my study
+
+### Measurement Modification
+1. Should measures be combined?
+	- Assume scales were not planned to be combined unless otherwise stated. Although best to clearly state this
+2. Should I break measures apart?
+	- If structure is not anticipated then make statement about registered plan but then go with the two structures
+3. Should I add or remove items?
+	- might remove one with no variability and one with no good properties
+	- then no to register this decision treee next time
+4. Should I change item wording?
+	- give all items exactly
+
+#### Common QMPs
+- item removal
+- combining scales
+- breaking scales apart
+- cherry picking items/analysis
+- going back and forth between single and multiple item analyses
+- watch for 'adapted' etc. make sure you get the validity evidence or at least item wording.
+
+It's ok to modify scales but it is essential to be transparent about this 
