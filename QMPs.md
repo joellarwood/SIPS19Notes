@@ -2,6 +2,8 @@
 
 ## (Resources)[https://docs.google.com/document/d/16xDCPQiP82Bp-Z8Eda3s9jv7_CzqNOJzRueS7RJvaJ8/edit]
 
+## (Measurement Primer)[https://docs.google.com/document/d/11jyoXtO0m2lUywpC04KjLvI5QcBUY4YtwEvw6cg2cMs/edit]
+
 - Quality of theory is related to how good measurement is and if the theory is good but measurement is bad theory will be incorrectly updated
 - Measurement is more than questionnaires  but the focus of this session is questionnaires
 - Focus will be on transparency in measurement process. pre-registration is difficult as the decisions are very iterative. Have to make measurement decisions that you don’t know you will have to make
@@ -22,7 +24,7 @@
 - QRP is exploiting ambiguity to get the result you want
 	- the asks you to question intention of the intentions of the researcher
 	- perhaps better to say questionable reporting practices, which removes the intention aspect of the judgement
-- Flake & Fried take questionable reporting practices approach. Accepts we do not know the intention of the researcher, can easliy be unintentional
+- Flake & Fried take questionable reporting practices approach. Accepts we do not know the intention of the researcher, can easily be unintentional
 
 ## Questionable Measurement Practices (QMP)
 - decision a researcher make that leave questions about the measurement practices in the study
@@ -32,3 +34,47 @@
 - QMPs make it very hard to reproduce and replicate a study
 - Hans IJzerman has detailed study measurement and pre-reg stuff on his (OSF)[https://osf.io/3hsfj/] page
 - Garden of forking measurement paths in which different measurement decisions will lead to changes in inferential test results
+
+## Eiko wants to study depression....
+### Measurement Selection
+#### Crowdsource input
+- cost
+- construct definition
+- scale length
+- face validity
+- readability / usability
+- validation sample
+- To select a measure as yourself
+	1. what is my theory about the construct, how does the measure relate
+	2. what measures exist
+	3. Do they cover the content
+	4. Are the psychometrics/evidence good
+
+#### Eiko Input
+1. What is our theory of depression, how does our measure relate to depression, i.e. is it continuous or categorical
+	- A-priori decision = categorical
+	- a-priori justification is because depression is a brain disorder that cause symptoms
+	- theory informs how you want to model the measurements
+	- A lack of plan here would allow for QMPs
+2. What do the measures cover as far as item content goes
+	- Scales differ from each other even when they measure the same thing
+	- Decision is to take two scales based on two different theories of depression
+	- one is stated as the primary scale
+4. What is the validity evidence for each scale - see Flake 2017 paper (in slides)
+
+#### Summary
+- choose measures that align with theory
+- select instrument with content and other validity evidence. Face validity also matters in the context of understanding what aspects of the construct the scale measures
+- report the decisions and their justification
+	- the justification can be weak for whichever reason
+
+## In My Work
+```
+Construct = Alexithymia
+Multiple Measures = Yes;
+										Toronto Alexithymia Scale
+										Bermnond Vorst Alexithymia questionnaire
+										Perth Alexithymia questionnaire
+How are the selected = Sometimes theory (if looking at type 1 or type 2) but generally the TAS is selected out of prominence. Perth questionnaire is new and I don't think it has been used yet but was developed out of theory.
+Primary weight: What most people use in the literature
+```
